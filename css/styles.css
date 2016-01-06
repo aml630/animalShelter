@@ -1,0 +1,32 @@
+.column {
+  float:left;
+  text-align: center;
+}
+
+.column h3 {
+  color: green;
+}
+
+h3 {
+  font-style: italic;
+}
+
+
+img {
+  height: 200px;
+  width: 200px;
+}
+
+.column img {
+ box-shadow: 5px 8px grey;
+ margin: 15px;
+}
+
+
+h1 {
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
